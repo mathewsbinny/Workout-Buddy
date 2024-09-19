@@ -1,6 +1,6 @@
-## Workout-Buddy
+# Workout-Buddy
 Personal workout tracker web application made to learn develope a deeper understanding of client-server architecture.
-# Technology Stack
+### Technology Stack
 - MongoDB
 - Express
 - React

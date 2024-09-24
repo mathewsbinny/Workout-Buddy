@@ -2,10 +2,10 @@
 Personal workout tracker web application made to develop a deeper understanding of client-server architecture, RESTful APIs, and the MERN tech stack.
 ### Technology Stack
 - MongoDB
-- Express
+- Express.js
 - React
 - Node.js
-- Postman
+- Postman for REST API testing
 
 ### How to Run
 1. Open terminal on /server and enter *npm run dev*
